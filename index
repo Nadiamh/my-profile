@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>My profile</title>
+<meta charset="utf-8">
+<link  href="https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,500,700,900" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+</head>
+<body>
+<h1> Hello, I'm Nadia </h1>
+<img src = "images/profil.png" width="100" alt = "Boris">
+<p>
+I love github, UX/UI Design, web-development and motorbikes...
+</p>
+<a href="">Discover Le Wagon</a>
+<h2>UX/UI Design</h2>
+<p>
+I am passionate about <strong>UX/UI Design</strong>
+</p>
+<ul>
+    <li><a href="#">
+          <i class="fab fa-facebook-f"></i> Facebook
+  </a>
+</li><li>
+  <a href="#">
+    <i class="fab fa-linkedin-in"></i> Linkedin
+      </a></li>
+<li>  <a href="#">
+  <i class="fab fa-twitter"></i> Twitter
+    </a>
+  </li>
+    </ul>
+</html>
